@@ -16,8 +16,8 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+        text: Download CV
+        url: https://maticv.netlify.app
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -30,7 +30,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: '2006'
       # Education or Experience section first?
       is_education_first: false
   - block: skills
@@ -39,7 +39,7 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Courses
       username: admin
   - block: languages
     content:
