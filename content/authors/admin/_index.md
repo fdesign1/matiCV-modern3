@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Matias Ferreras
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# first_name: Matias
+# last_name: Ferreras
 
 # Status emoji
 status:
@@ -17,156 +17,167 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Technology/Communications
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Smartbear
+    url: https://www.smartbear.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ferrerasmatias@outlook.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/fdesign1
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/matif33
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/_matiowi
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Electromechanical Technician Automotive
+    institution: Technical School Education
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      - Assembly operations, electrical circuits and electronic devices.
+      - Engines and electric functionality
+      - Analysis of risks connected to security conditions.
+      - Informatics Technology and communications
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Product Support Engineer
+    company_name: Smartbear
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-02-01
     date_end: ''
-    summary: |2-
+    summary: |-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Troubleshoot, perform in-depth investigations and solve technical support issues with external customers (via email, GitHub, screenshare, live chat etc)
+      - Collaborate with and be a point of contact for fellow support colleagues and other internal organisations (e.g. development)
+      - Identify fixes to bugs and define tasks for these to be implemented either by the support team or by other engineering teams
+      - Develop tools and enhance documentation to improve support processes
+      - Look for ways to improve productivity of issue resolution and better ways to help customers.
+  - position: Data Analyst  
+    company_name: Capgemini
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-06-01
+    date_end: 2024-02-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducting investigation and acquiring data from primary or secondary sources.
+        Using internal tools such as MS Office, Microsoft SQL Server for data analysis cleansing and verification.
+      - Creating reports for the company's main client, Microsoft
+      - Gathering necessary data based on internet research and using commercial      database platforms.
+      - Working with many languages in a multicultural environment.
+      - Dealing with short-term deadlines and focusing on detail.
+      - Checked Spanish proficiency in candidate's interviews.
+
+  - position: Senior Process Executive - Cognizant
+    company_name: Cognizant
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-10-01
+    date_end: 2021-04-01
+    summary: |
+      Responsibilities include:
+      - Working with Excel and SAP to extract required documentation, Azure Portal, PowerBI, and other company tools.
+      - Handling payment process.
+      - Updating internal databases and responding/resolving queries.
+
+  - position: Web and mobile Data Analyst - Accenture
+    company_name: Accenture
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-01-01
+    date_end: 2020-06-01
+    summary: |
+      Responsibilities include:
+      - Full sites analysis and approval for developers to introduce monetizable advertisements.
+      - Web analysis, ads positioning.
+      - Quality assistance for the project in Krakow and Dublin.
+      - App reviewing in Spanish and English.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: HTML/CSS
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon: 
+      - name: React
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 50
+        icon: devicon/react
+      - name: Javascript
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/javascript
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Motorsports
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: 
+      - name: Swimming
         description: ''
-        percent: 80
-        icon: camera
+        percent: 70
+        icon: 
+      - name: Traveling
+        description: ''
+        percent: 100
+        icon: 
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: Polish
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Web Development
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: CodeAcademy
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+      Excel, HTML 5, Advanced CSS Flexbox, SQL, Javascript fundamentals.
+  - title: Security, Endpoint Protection, Encryption.
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
-    awarder: edX
+    awarder: Udemy
     icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: 'Other Skills'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Familiar with, CSS, JS, Boostrap, React, Linux, SQL, Visual Studio, GIT.
+      - Jira, Confluence, Power BI, MS Office, Windows, Azure.
+      - Research, Effective communications skills, proactive, time management.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a native Spanish with experience in IT working as a Data Analyst, in the Automotive industry, and in customer service. I am eager to contribute my expertise and make a meaningful impact. In my free time, I enjoy playing football, swimming, and watching serials.
+
