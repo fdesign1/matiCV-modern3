@@ -114,7 +114,7 @@ skills:
       - name: HTML/CSS
         description: ''
         percent: 80
-        icon: 
+        icon: devicon/html5
       - name: React
         description: ''
         percent: 50
@@ -130,15 +130,15 @@ skills:
       - name: Motorsports
         description: ''
         percent: 100
-        icon: 
+        icon: custom/motorcycle-solid
       - name: Swimming
         description: ''
         percent: 70
-        icon: 
+        icon: custom/person-swimming-solid
       - name: Traveling
         description: ''
         percent: 100
-        icon: 
+        icon: custom/plane-solid
 
 languages:
   - name: Spanish
@@ -154,25 +154,22 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Web Development
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://www.codeacademy.com
     date: '2023-11-25'
     awarder: CodeAcademy
-    icon: coursera
+    icon: 
     summary: |
       Excel, HTML 5, Advanced CSS Flexbox, SQL, Javascript fundamentals.
   - title: Security, Endpoint Protection, Encryption.
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.udemy.com
     date: '2023-07-01'
     awarder: Udemy
-    icon: edx
+    icon: 
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      - Course about cibersecurity fundamentals
   - title: 'Other Skills'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+    url: 
     summary: |
       - Familiar with, CSS, JS, Boostrap, React, Linux, SQL, Visual Studio, GIT.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
