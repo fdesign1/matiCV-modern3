@@ -38,9 +38,9 @@ profiles:
     url: https://www.linkedin.com/matif33
   - icon: brands/instagram
     url: h.0ps://www.instagram.com/_matiowi
-    
+
   # Phone number
-phone: '+48515465342'
+   - name: '+48515465342'
 
 
 education:
