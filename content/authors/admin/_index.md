@@ -23,6 +23,8 @@ role: Technology/Communications
 organizations:
   - name: Smartbear
     url: https://www.smartbear.com/
+  - name: Contact
+    url: 'tel:+48 515 465 342'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,9 +40,6 @@ profiles:
     url: https://www.linkedin.com/matif33
   - icon: brands/instagram
     url: h.0ps://www.instagram.com/_matiowi
-
-  # Phone number
-   - name: '+48515465342'
 
 
 education:
