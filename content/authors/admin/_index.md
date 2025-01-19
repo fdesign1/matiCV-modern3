@@ -37,8 +37,10 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/matif33
   - icon: brands/instagram
-    url: https://www.instagram.com/_matiowi
-
+    url: h.0ps://www.instagram.com/_matiowi
+  - icon: phone
+    url: 'tel:+48515465342'
+    label: Llámame
 education:
   - area: Electromechanical Technician Automotive
     institution: Technical School Education
