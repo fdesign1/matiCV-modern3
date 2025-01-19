@@ -23,8 +23,8 @@ role: Technology/Communications
 organizations:
   - name: Smartbear
     url: https://www.smartbear.com/
-  - name: '<i class="fas fa-phone"></i> +48 515 465 342'
-    url: 'tel:+48515465342'
+  - name: 'Phone: +48 515 465 342'
+    url: '+48515465342'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
