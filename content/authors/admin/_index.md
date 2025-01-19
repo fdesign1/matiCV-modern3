@@ -23,8 +23,8 @@ role: Technology/Communications
 organizations:
   - name: Smartbear
     url: https://www.smartbear.com/
-  - name: Contact
-    url: 'tel:+48 515 465 342'
+  - name: tel:+48 515 465 342
+    url: '+48515465342'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
