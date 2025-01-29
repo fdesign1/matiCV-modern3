@@ -151,7 +151,7 @@ languages:
   - name: English
     percent: 90
   - name: Polish
-    percent: 50
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
