@@ -62,11 +62,13 @@ work:
     date_end: ''
     summary: |-
       Responsibilities include:
+      - API, REST APIs, Postman API, Stoplight, Swaggerhub, Web Services API, openAPI Specification, API troubleshooting
       - Troubleshoot, perform in-depth investigations and solve complex technical support issues with external customers (via email, GitHub, screenshare, live chat etc)
       - Collaborate with and be a point of contact for fellow support colleagues and other internal organisations (e.g. development)
       - Identify fixes to bugs and define tasks for these to be implemented either by the support team or by other engineering teams
       - Develop tools and enhance documentation to improve support processes
       - Look for ways to improve productivity of issue resolution and better ways to help customers.
+
   - position: Data Analyst  
     company_name: Capgemini
     company_url: ''
@@ -175,7 +177,6 @@ awards:
     url: 
     summary: |
       - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
-      - API, REST APIs, Postman API, Stoplight, Swaggerhub, Web Services API, openAPI Specification, API troubleshooting
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
       - Research, Effective communications skills, proactive, time management.
 ---
