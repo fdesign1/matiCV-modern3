@@ -180,8 +180,7 @@ awards:
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
       - Research, Effective communications skills, proactive, time management.
 ---
-Native Spanish speaker with a strong background in IT, data analysis, the automotive industry, and support engineering. Experienced in troubleshooting technical issues, resolving challenges, and ensuring customer success. Passionate about delivering product support, streamlining processes, and collaborating with cross-functional teams to improve efficiency. Adept at working in dynamic, customer-focused environments with strong communication and problem-solving skills. Currently working as a Support Engineer, eager to contribute expertise in technical support and process improvement within an innovative tech environment.  
-In my freetime, I am actively learning web development and I enjoy riding speedway motorcycle(żużel), staying active at the gym or swimming.  
+Native Spanish speaker with a strong background in IT, data analysis, automotive, and support engineering. Skilled in troubleshooting, customer success, and process optimization. Passionate about product support and cross-team collaboration. Currently a Support Engineer, eager to contribute technical expertise in a dynamic tech environment.In my free time, I learn web development and enjoy practicing speedway-żużel motorcycle, the gym, and swimming. 
 
 
 
