@@ -21,8 +21,7 @@ role: Technology/Communications
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Email
-    url: 'ferrerasmatias@outlook.com'
+  - name: ferrerasmatias@outlook.com
   - name: 'Phone: +48 515 465 342'
     url: '+48515465342'
 
