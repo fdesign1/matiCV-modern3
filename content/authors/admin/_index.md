@@ -21,25 +21,25 @@ role: Technology/Communications
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Smartbear
-    url: https://www.smartbear.com/
+  - name: Email
+    url: 'ferrerasmatias@outlook.com'
   - name: 'Phone: +48 515 465 342'
     url: '+48515465342'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:ferrerasmatias@outlook.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/fdesign1
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/matif33
-  - icon: brands/instagram
-    url: h.0ps://www.instagram.com/_matiowi
+#profiles:
+ # - icon: at-symbol
+  #  url: 'mailto:ferrerasmatias@outlook.com'
+   # label: E-mail Me
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/github
+  #  url: https://github.com/fdesign1
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/matif33
+  # - icon: brands/instagram
+  #  url: h.0ps://www.instagram.com/_matiowi
 
 
 education:
@@ -180,7 +180,7 @@ awards:
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
       - Research, Effective communications skills, proactive, time management.
 ---
-Native Spanish Technical Support Engineer with a solid background in IT, data analysis, and support engineering. Experienced in troubleshooting, customer success, and process optimization, with a passion for product support and cross-team collaboration. Proven ability to enhance technical services and streamline support operations. Enthusiastic about web app development, practicing speedway, gym and swimming.
+Technical Support Engineer and Native Spanish Speaker with a solid background in IT, data analysis, and support engineering. Experienced in troubleshooting, customer success, and process optimization, with a passion for product support and cross-team collaboration. Proven ability to enhance technical services and streamline support operations. Enthusiastic about web app development, speedway racing, gym workouts, and swimming.
 
 
 
