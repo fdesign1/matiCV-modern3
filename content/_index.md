@@ -18,9 +18,7 @@ sections:
       button:
         text: Download CV
         url: https://maticv.netlify.app
-
-      button:
-        text: Portfolio
+        
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
