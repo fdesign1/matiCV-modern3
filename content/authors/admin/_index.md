@@ -21,23 +21,25 @@ role: Technology/Communications
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Smartbear
-    url: https://www.smartbear.com/
+  - name: 'Phone: +48 515 465 342'
+    url: '+48515465342'
+  - name: ferrerasmatias@outlook.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:ferrerasmatias@outlook.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/fdesign1
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/matif33
-  - icon: brands/instagram
-    url: https://www.instagram.com/_matiowi
+#profiles:
+ # - icon: at-symbol
+  #  url: 'mailto:ferrerasmatias@outlook.com'
+   # label: E-mail Me
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/github
+  #  url: https://github.com/fdesign1
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/matif33
+  # - icon: brands/instagram
+  #  url: h.0ps://www.instagram.com/_matiowi
+
 
 education:
   - area: Electromechanical Technician Automotive
@@ -59,11 +61,13 @@ work:
     date_end: ''
     summary: |-
       Responsibilities include:
-      - Troubleshoot, perform in-depth investigations and solve technical support issues with external customers (via email, GitHub, screenshare, live chat etc)
+      - API, REST APIs, Postman API, Stoplight, Swaggerhub, Web Services API, openAPI Specification, API troubleshooting
+      - Troubleshoot, perform in-depth investigations and solve complex technical support issues with external customers (via email, GitHub, screenshare, live chat etc)
       - Collaborate with and be a point of contact for fellow support colleagues and other internal organisations (e.g. development)
       - Identify fixes to bugs and define tasks for these to be implemented either by the support team or by other engineering teams
       - Develop tools and enhance documentation to improve support processes
       - Look for ways to improve productivity of issue resolution and better ways to help customers.
+
   - position: Data Analyst  
     company_name: Capgemini
     company_url: ''
@@ -146,7 +150,7 @@ languages:
   - name: English
     percent: 90
   - name: Polish
-    percent: 50
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -171,10 +175,17 @@ awards:
   - title: 'Other Skills'
     url: 
     summary: |
-      - Familiar with, CSS, JS, Boostrap, React, Linux, SQL, Visual Studio, GIT.
+      - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
       - Research, Effective communications skills, proactive, time management.
----
 
-I am a native Spanish with experience in IT working as a Data Analyst, in the Automotive industry, and in customer service. I am eager to contribute my expertise and make a meaningful impact. In my free time, I enjoy playing football, swimming, and watching serials.
+---
+Technical Support Engineer and Native Spanish Speaker with a solid background in IT, data analysis, and support engineering. Experienced in troubleshooting, customer success, and process optimization, with a passion for product support and cross-team collaboration. Proven ability to enhance technical services and streamline support operations. Enthusiastic about web app development, speedway racing, gym workouts, and swimming.
+
+
+
+
+
+
+
 
