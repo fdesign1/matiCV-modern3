@@ -30,7 +30,10 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
+    blox: 
+    - text : "Portfolio"
+    
+    - floating-theme-toggler
 
 # Site footer
 footer:
