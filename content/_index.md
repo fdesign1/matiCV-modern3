@@ -43,9 +43,6 @@ sections:
     content:
       title: Courses
       username: admin
-  - block: Projects
-    content:
-    title: Portfolio
    
   - block: languages
     content:
