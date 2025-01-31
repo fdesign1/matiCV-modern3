@@ -26,6 +26,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+
   - block: experience
     content:
       username: admin
@@ -42,6 +43,10 @@ sections:
     content:
       title: Courses
       username: admin
+  - block: Projects
+    content:
+    title: Portfolio
+   
   - block: languages
     content:
       title: Languages
