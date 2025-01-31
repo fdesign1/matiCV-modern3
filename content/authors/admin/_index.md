@@ -182,6 +182,7 @@ awards:
 
 ---
 Technical Support Engineer and Native Spanish Speaker with a solid background in IT, data analysis, and support engineering. Experienced in troubleshooting, customer success, and process optimization, with a passion for product support and cross-team collaboration. Proven ability to enhance technical services and streamline support operations. Enthusiastic about web app development, speedway racing, gym workouts, and swimming. 
+
 🚀 Check out my [Portfolio](https://tu-link-aqui.com)
 
 
