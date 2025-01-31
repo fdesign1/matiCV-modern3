@@ -181,7 +181,7 @@ awards:
       - Research, Effective communications skills, proactive, time management.
 
 ---
-Technical Support Engineer and Native Spanish Speaker with a solid background in IT, data analysis, and support engineering. Experienced in troubleshooting, customer success, and process optimization, with a passion for product support and cross-team collaboration. Proven ability to enhance technical services and streamline support operations. Enthusiastic about web app development, speedway racing, gym workouts, and swimming. 
+Technical Support Engineer and Native Spanish Speaker with a strong background in IT, data analysis, and support engineering. Skilled in troubleshooting, customer success, and process optimization, with a passion for product support and cross-functional collaboration. Proven ability to improve technical services and streamline support operations. In addition to my technical expertise, I develop websites, ride speedway, travel, work out at the gym, swim, and maintain a healthy lifestyle.
 
 🚀 Check out my [Portfolio](https://tu-link-aqui.com)
 
