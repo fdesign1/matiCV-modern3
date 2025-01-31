@@ -21,9 +21,9 @@ role: Technology/Communications
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ferrerasmatias@outlook.com
   - name: 'Phone: +48 515 465 342'
     url: '+48515465342'
+  - name: ferrerasmatias@outlook.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -178,6 +178,7 @@ awards:
       - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
       - Research, Effective communications skills, proactive, time management.
+
 ---
 Technical Support Engineer and Native Spanish Speaker with a solid background in IT, data analysis, and support engineering. Experienced in troubleshooting, customer success, and process optimization, with a passion for product support and cross-team collaboration. Proven ability to enhance technical services and streamline support operations. Enthusiastic about web app development, speedway racing, gym workouts, and swimming.
 
