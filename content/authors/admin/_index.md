@@ -81,7 +81,7 @@ work:
       - Handle short-term deadlines while maintaining a strong focus on accuracy and detail.
       - Evaluate Spanish proficiency during candidate interviews to support recruitment processes.
 
-  - position: Senior Process Executive - Cognizant
+  - position: Senior Process Executive
     company_name: Cognizant
     company_url: ''
     company_logo: ''
@@ -92,7 +92,7 @@ work:
       - Oversee and manage payment transactions, ensuring accuracy and compliance with internal procedures
       - Update internal databases, respond to queries, and resolve issues to ensure data integrity and efficient operations.
 
-  - position: Web and mobile Data Analyst - Accenture
+  - position: Web and mobile Data Analyst
     company_name: Accenture
     company_url: ''
     company_logo: ''
