@@ -155,8 +155,7 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date_start: 2018-01-01
-    date_end: 2020-06-01
+    date:
     awarder: CodeAcademy
     icon: 
     summary: |
