@@ -112,7 +112,7 @@ skills:
     items:
       - name: HTML/CSS
         description: ''
-        percent: 80
+        percent: 100
         icon: devicon/html5
       - name: React
         description: ''
@@ -120,7 +120,7 @@ skills:
         icon: devicon/react
       - name: Javascript
         description: ''
-        percent: 40
+        percent: 50
         icon: devicon/javascript
   - name: Hobbies
     color: '#eeac02'
