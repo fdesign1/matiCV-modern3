@@ -155,14 +155,14 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date: ''
+    date: null
     awarder: CodeAcademy
     icon: 
     summary: |
       Excel, HTML 5, Advanced CSS Flexbox, SQL, Javascript fundamentals.
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
-    date: ''
+    date: null
     awarder: Udemy
     icon: 
     summary: |
@@ -170,11 +170,11 @@ awards:
       - Course about cibersecurity fundamentals
   - title: 'Other Skills'
     url: 
-    date: ''
+    date: null
     summary: |
       - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
-      - Research, Effective communications skills, proactive, time management.
+      - Research, Effective communication skills, proactive, time management.
 
 ---
 Technical Support Engineer and Native Spanish Speaker with a strong background in IT and data analysis. Skilled in troubleshooting, customer success, and process optimization, with a passion for product support and cross-functional collaboration. Proven ability to improve technical services and streamline support operations. 
