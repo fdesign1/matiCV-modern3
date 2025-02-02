@@ -24,6 +24,7 @@ organizations:
   - name: 'Phone: +48 515 465 342'
     url: '+48515465342'
   - name: ferrerasmatias@outlook.com
+  - name : 🚀 Check out my [Portfolio](https://tu-link-aqui.com)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -60,13 +61,12 @@ work:
     date_start: 2024-02-01
     date_end: ''
     summary: |-
-      Responsibilities include:
-      - API, REST APIs, Postman API, Stoplight, Swaggerhub, Web Services API, openAPI Specification, API troubleshooting
-      - Troubleshoot, perform in-depth investigations and solve complex technical support issues with external customers (via email, GitHub, screenshare, live chat etc)
-      - Collaborate with and be a point of contact for fellow support colleagues and other internal organisations (e.g. development)
-      - Identify fixes to bugs and define tasks for these to be implemented either by the support team or by other engineering teams
-      - Develop tools and enhance documentation to improve support processes
-      - Look for ways to improve productivity of issue resolution and better ways to help customers.
+      - Work with API technologies, including REST APIs, Postman API, Stoplight, SwaggerHub, Web Services API, and OpenAPI Specification. Assist with API troubleshooting and integration challenges.
+      - Investigate, diagnose, and resolve complex technical support issues for external customers via email, GitHub, screen sharing, live chat, and other communication channels.
+      - Act as a point of contact for support colleagues and internal teams, such as development, ensuring effective issue resolution and knowledge sharing.
+      - Identify software bugs and define tasks for resolution, coordinating with the support team or engineering teams as needed.
+      - Develop internal tools and improve documentation to enhance support processes and customer self-service capabilities.
+      - Continuously seek ways to improve issue resolution efficiency and enhance customer support experiences.
 
   - position: Data Analyst  
     company_name: Capgemini
@@ -75,7 +75,6 @@ work:
     date_start: 2021-06-01
     date_end: 2024-02-01
     summary: |
-      Responsibilities include:
       - Conducting investigation and acquiring data from primary or secondary sources.
         Using internal tools such as MS Office, Microsoft SQL Server for data analysis cleansing and verification.
       - Creating reports for the company's main client, Microsoft
@@ -91,7 +90,6 @@ work:
     date_start: 2020-10-01
     date_end: 2021-04-01
     summary: |
-      Responsibilities include:
       - Working with Excel and SAP to extract required documentation, Azure Portal, PowerBI, and other company tools.
       - Handling payment process.
       - Updating internal databases and responding/resolving queries.
@@ -103,7 +101,6 @@ work:
     date_start: 2018-01-01
     date_end: 2020-06-01
     summary: |
-      Responsibilities include:
       - Full sites analysis and approval for developers to introduce monetizable advertisements.
       - Web analysis, ads positioning.
       - Quality assistance for the project in Krakow and Dublin.
@@ -131,7 +128,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Motorsports
+      - name: Riding Speedway
         description: ''
         percent: 100
         icon: custom/motorcycle-solid
@@ -181,9 +178,9 @@ awards:
       - Research, Effective communications skills, proactive, time management.
 
 ---
-Technical Support Engineer and Native Spanish Speaker with a strong background in IT, data analysis, and support engineering. Skilled in troubleshooting, customer success, and process optimization, with a passion for product support and cross-functional collaboration. Proven ability to improve technical services and streamline support operations. In addition to my technical expertise, I develop websites, ride speedway, travel, work out at the gym, swim, and maintain a healthy lifestyle.
+Technical Support Engineer and Native Spanish Speaker with a strong background in IT, data analysis, and support engineering. Skilled in troubleshooting, customer success, and process optimization, with a passion for product support and cross-functional collaboration. Proven ability to improve technical services and streamline support operations. 
 
-🚀 Check out my [Portfolio](https://tu-link-aqui.com)
+
 
 
 
