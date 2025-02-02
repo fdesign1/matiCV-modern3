@@ -118,15 +118,6 @@
   
   
   
-<script> 
-document.querySelectorAll('time').forEach(function(timeElement) {
-  if (timeElement.textContent.trim() === 'Present') {
-    timeElement.textContent = '';
-  }
-});
-
-</script>
-
 
 
 
@@ -1765,7 +1756,16 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
     window.onload = hideFooter;
 </script>
       
-    
+<script> 
+  document.querySelectorAll('time').forEach(function(timeElement) {
+    if (timeElement.textContent.trim() === 'Present') {
+      timeElement.textContent = '';
+    }
+  });
+  
+  </script>
+  
+  
   
 
 
