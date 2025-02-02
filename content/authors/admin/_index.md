@@ -155,7 +155,7 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date: 'puedoponeralgo'
+    date: ''
     awarder: CodeAcademy
     icon: 
     summary: |
