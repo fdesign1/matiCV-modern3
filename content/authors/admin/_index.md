@@ -155,12 +155,16 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
+    date_start: ""
+    date_end: ""
     awarder: CodeAcademy
     icon: 
     summary: |
       Excel, HTML 5, Advanced CSS Flexbox, SQL, Javascript fundamentals.
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
+    date_start: ""
+    date_end: ""
     awarder: Udemy
     icon: 
     summary: |
@@ -168,6 +172,8 @@ awards:
       - Course about cibersecurity fundamentals
   - title: 'Other Skills'
     url: 
+    date_start: ""
+    date_end: ""
     summary: |
       - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
