@@ -172,14 +172,14 @@ awards:
       - Course about cibersecurity fundamentals
   - title: 'Other Skills'
     url: 
-    date: '2000'
+    date: 2000
     summary: |
       - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
       - Research, Effective communication skills, proactive, time management.
 
 ---
-Technical Support Engineer and Native Spanish Speaker with a strong background in IT and data analysis. Skilled in troubleshooting, customer success, and process optimization, with a passion for product support and cross-functional collaboration. Proven ability to improve technical services and streamline support operations. 
+I am an Experienced Technical Support Engineer with expertise in IT, data analysis, and troubleshooting. Skilled in API management, AI integration, website development and process optimization. Adept at problem-solving, enhancing technical services and streamlining operations. Spanish-English speaking, passionate about AI tools, website building and riding speedway.
 
 🚀 Check out my [Portfolio](https://tu-link-aqui.com)
 
