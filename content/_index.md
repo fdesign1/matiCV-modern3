@@ -1,5 +1,6 @@
 ---
 title: 'Home'
+date: 2023-10-24
 type: landing
 
 design:
@@ -31,7 +32,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-
+      date_format: '2006'
       # Education or Experience section first?
       is_education_first: false
   - block: skills
