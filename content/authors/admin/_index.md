@@ -171,7 +171,7 @@ awards:
       - Course about cibersecurity fundamentals
   - title: 'Other Skills'
     url: 
-    date: 2018-01-01
+    date: '2018'
     summary: |
       - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
