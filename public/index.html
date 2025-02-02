@@ -119,10 +119,12 @@
   
   
 <script> 
-const timeElement = document.querySelector('time'); // Selecciona el primer elemento <time>
-if (timeElement) {
-  timeElement.remove(); // Elimina el elemento <time> del DOM
-}
+document.querySelectorAll('time').forEach(function(timeElement) {
+  if (timeElement.textContent.trim() === 'Present') {
+    timeElement.textContent = '';
+  }
+});
+
 </script>
 
 
