@@ -1742,22 +1742,20 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
 
   
     
-    <script>
-      window.onload = function() {
-        // Ocultar el footer
+      
+      <script>
+    
+    function hideFooter() {
         const footer = document.querySelector('.page-footer');
         if (footer) {
-          footer.style.display = 'none'; 
+            footer.style.display = 'none'; 
         }
+    }
+
     
-        // Eliminar el texto "Present" de los elementos <time>
-        document.querySelectorAll('time').forEach(function(timeElement) {
-          if (timeElement.textContent.trim() === 'Present') {
-            timeElement.textContent = '';
-          }
-        });
-      };
-    </script>
+    window.onload = hideFooter;
+</script>
+      
   
   
   
