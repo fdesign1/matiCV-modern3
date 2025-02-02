@@ -75,13 +75,11 @@ work:
     date_start: 2021-06-01
     date_end: 2024-02-01
     summary: |
-      - Conducting investigation and acquiring data from primary or secondary sources.
-        Using internal tools such as MS Office, Microsoft SQL Server for data analysis cleansing and verification.
-      - Creating reports for the company's main client, Microsoft
-      - Gathering necessary data based on internet research and using commercial      database platforms.
-      - Working with many languages in a multicultural environment.
-      - Dealing with short-term deadlines and focusing on detail.
-      - Checked Spanish proficiency in candidate's interviews.
+      - Conduct investigations and gather data from primary and secondary sources. Utilize internal tools such as MS Office and Microsoft SQL Server for data analysis, cleansing, and verification.
+      - Prepare reports for the company’s main client, Microsoft, ensuring accuracy and relevance.
+      - Collect and analyze data using internet research and commercial database platforms to support business decisions.
+      - Handle short-term deadlines while maintaining a strong focus on accuracy and detail.
+      - Evaluate Spanish proficiency during candidate interviews to support recruitment processes.
 
   - position: Senior Process Executive - Cognizant
     company_name: Cognizant
@@ -90,9 +88,9 @@ work:
     date_start: 2020-10-01
     date_end: 2021-04-01
     summary: |
-      - Working with Excel and SAP to extract required documentation, Azure Portal, PowerBI, and other company tools.
-      - Handling payment process.
-      - Updating internal databases and responding/resolving queries.
+      - Working Utilize Excel, SAP, Azure Portal, Power BI, and other internal tools to extract and manage required documentation.
+      - Oversee and manage payment transactions, ensuring accuracy and compliance with internal procedures
+      - Update internal databases, respond to queries, and resolve issues to ensure data integrity and efficient operations.
 
   - position: Web and mobile Data Analyst - Accenture
     company_name: Accenture
@@ -102,9 +100,9 @@ work:
     date_end: 2020-06-01
     summary: |
       - Full sites analysis and approval for developers to introduce monetizable advertisements.
-      - Web analysis, ads positioning.
-      - Quality assistance for the project in Krakow and Dublin.
-      - App reviewing in Spanish and English.
+      - Analyze websites and determine optimal ad positioning
+      - Support quality control processes for projects in Krakow and Dublin
+      - Evaluate applications in both Spanish and English to ensure compliance and functionality.
 
 
 # Skills
