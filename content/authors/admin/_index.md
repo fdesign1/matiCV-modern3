@@ -24,7 +24,7 @@ organizations:
   - name: 'Phone: +48 515 465 342'
     url: '+48515465342'
   - name: ferrerasmatias@outlook.com
-  - name : 🚀 Check out my [Portfolio](https://tu-link-aqui.com)
+  
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -176,7 +176,9 @@ awards:
       - Research, Effective communications skills, proactive, time management.
 
 ---
-Technical Support Engineer and Native Spanish Speaker with a strong background in IT, data analysis, and support engineering. Skilled in troubleshooting, customer success, and process optimization, with a passion for product support and cross-functional collaboration. Proven ability to improve technical services and streamline support operations. 
+Technical Support Engineer and Native Spanish Speaker with a strong background in IT and data analysis. Skilled in troubleshooting, customer success, and process optimization, with a passion for product support and cross-functional collaboration. Proven ability to improve technical services and streamline support operations. 
+
+🚀 Check out my [Portfolio](https://tu-link-aqui.com)
 
 
 
