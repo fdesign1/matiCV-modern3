@@ -167,7 +167,6 @@ awards:
     awarder: Udemy
     icon: 
     summary: |
-      Learned:
       - Course about cibersecurity fundamentals
   - title: 'Other Skills'
     url: 
