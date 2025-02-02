@@ -173,7 +173,7 @@ awards:
   - title: 'Other Skills'
     url: 
     date_start: 2018-01-01
-    date_end: 2019-01-01
+    date_end: ''
     summary: |
       - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
       - Jira, Confluence, Power BI, MS Office, Windows, Azure.
