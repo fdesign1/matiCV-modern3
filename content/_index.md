@@ -32,7 +32,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '2006'
+      date_format: null
       # Education or Experience section first?
       is_education_first: false
   - block: skills
