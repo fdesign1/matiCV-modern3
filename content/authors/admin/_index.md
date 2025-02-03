@@ -139,9 +139,6 @@ skills:
         description: ''
         percent: 100
         icon: custom/plane-solid
-    - name: Soft Skills
-      items:
-        - name: Problem-solving-Communication
 
 languages:
   - name: Spanish
