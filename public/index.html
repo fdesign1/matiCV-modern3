@@ -1755,15 +1755,11 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
 </script>
       
 <script>
-  window.onload = function() {
-    const element = document.querySelector("#section-resume-experience > div.flex.flex-col.items-center.max-w-prose.mx-auto > div > div:nth-child(2) > ol > li > time");
-    
-    if (element) {
-      element.remove();  // Elimina el elemento
-    } else {
-      console.log("Elemento no encontrado");
-    }
-  };
+  // Selecciona el elemento <time> usando su clase
+  const timeElement = document.querySelector('time.block.mb-3.text-sm.font-normal.leading-none.text-gray-500.dark\\:text-gray-300');
+
+  // Elimina la clase del elemento
+  timeElement.classList.remove('block', 'mb-3', 'text-sm', 'font-normal', 'leading-none', 'text-gray-500', 'dark:text-gray-300');
 </script>
 
   
