@@ -1742,39 +1742,24 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
     
       
     <script>
-      function hideFooter() {
-          const footer = document.querySelector('.page-footer');
-          if (footer) {
-              footer.style.display = 'none'; 
-          }
-      }
-  
-      function removePresentText() {
-          const presentElement = document.querySelector('time');
-          if (presentElement && presentElement.textContent.trim() === 'Present') {
-              presentElement.remove();
-          }
-      }
-  
       window.onload = function() {
-          hideFooter();
-          removePresentText();
+        // Oculta el pie de página
+        const footer = document.querySelector('.page-footer');
+        if (footer) {
+            footer.style.display = 'none'; 
+        }
+    
+        // Elimina el texto "Present" y las clases del elemento <time>
+        const timeElements = document.querySelectorAll('time');
+        timeElements.forEach(timeElement => {
+          if (timeElement.textContent.includes('Present')) {
+            timeElement.textContent = timeElement.textContent.replace('Present', '').trim(); // Elimina "Present"
+            timeElement.classList.remove('block', 'mb-3', 'text-sm', 'font-normal', 'leading-none', 'text-gray-500', 'dark:text-gray-300'); // Elimina la clase
+          }
+        });
       };
-  </script>
-  
-  <script>
-    // Selecciona el elemento <time> que contiene "Present"
-    const timeElements = document.querySelectorAll('time');
-  
-    timeElements.forEach(timeElement => {
-      // Verifica si el texto contiene "Present" y elimina el contenido de texto
-      if (timeElement.textContent.includes('Present')) {
-        timeElement.textContent = timeElement.textContent.replace('Present', '').trim(); // Elimina "Present"
-        timeElement.classList.remove('block', 'mb-3', 'text-sm', 'font-normal', 'leading-none', 'text-gray-500', 'dark:text-gray-300'); // Elimina la clase
-      }
-    });
-  </script>
-      
+    </script>
+    
   
   
 
