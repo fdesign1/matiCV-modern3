@@ -4,11 +4,11 @@
     <title>Matias Ferreras CV</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Home</description>
+    <description></description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Home</title>
+      <url></url>
+      <title></title>
       <link>http://localhost:1313/</link>
     </image>
     
