@@ -1743,20 +1743,19 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
       
     <script>
       window.onload = function() {
-        // Oculta el pie de página
+        // Elimina el footer
         const footer = document.querySelector('.page-footer');
         if (footer) {
-            footer.style.display = 'none'; 
+          footer.style.display = 'none'; 
         }
     
-        // Elimina el texto "Present" y las clases del elemento <time>
-        const timeElements = document.querySelectorAll('time');
-        timeElements.forEach(timeElement => {
-          if (timeElement.textContent.includes('Present')) {
-            timeElement.textContent = timeElement.textContent.replace('Present', '').trim(); // Elimina "Present"
-            timeElement.classList.remove('block', 'mb-3', 'text-sm', 'font-normal', 'leading-none', 'text-gray-500', 'dark:text-gray-300'); // Elimina la clase
-          }
-        });
+        // Selecciona el elemento <time> con el selector detallado
+        const timeElement = document.querySelector('#section-resume-experience > div.flex.flex-col.items-center.max-w-prose.mx-auto > div > div:nth-child(2) > ol > li > time');
+        
+        // Si se encuentra el <time>, lo elimina directamente
+        if (timeElement) {
+          timeElement.remove();
+        }
       };
     </script>
     
