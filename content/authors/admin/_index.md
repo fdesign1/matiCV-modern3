@@ -156,15 +156,15 @@ skills:
       - name: Car Industry
         description: ''
         percent: 100
-        icon: 
+        icon: custom/car-solid
       - name: Football
         description: ''
         percent: 100
-        icon: 
+        icon: custom/football-solid
       - name: Motorsports
         description: ''
         percent: 100
-        icon: 
+        icon: custom/engine-solid
 
 languages:
   - name: Spanish
