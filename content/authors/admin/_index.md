@@ -54,7 +54,7 @@ education:
 
 work:
   - position: Product Support Engineer
-    company_name: Smartbear
+    company_name: Smartbear - To Date
     company_url: ''
     company_logo: ''
     date_start: 2024-02-01
