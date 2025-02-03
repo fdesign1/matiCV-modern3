@@ -17,8 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Technology/Communications
-
+role: Tech & Web Engineering
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 'Phone: +48 515 465 342'
