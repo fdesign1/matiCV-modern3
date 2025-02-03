@@ -123,6 +123,11 @@ skills:
         description: ''
         percent: 50
         icon: devicon/javascript
+      - name: 
+        description: 'CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab'
+        percent: 70
+        icon: devicon/sql
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
