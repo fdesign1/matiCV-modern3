@@ -161,6 +161,10 @@ skills:
         description: ''
         percent: 100
         icon: custom/car-solid
+      - name: Gaming Industry
+        description: ''
+        percent: 100
+        icon: custom/gamepad-solid
       - name: Football
         description: ''
         percent: 100
