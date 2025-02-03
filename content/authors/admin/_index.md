@@ -111,7 +111,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: HTML/CSS
+      - name: HTML/CSS/BOOSTRAP
         description: ''
         percent: 100
         icon: devicon/html5
@@ -120,19 +120,19 @@ skills:
         percent: 50
         icon: devicon/react
       - name: Javascript
-        description: ''
+        description: 'Express-Node.js'
         percent: 50
         icon: devicon/javascript
       - name: 
-        description: 'SQL, CSS, Boostrap, JS, Express-Node.js ,React,Visual Studio, GIT, Github, Gitlab'
+        description: 'SQL, Visual Studio, GIT'
         percent: 70
         icon: devicon/azuresqldatabase
-      - name: 
-        description: 'REST APIs, Postman, SwaggerHub, SQL, Python, Data Analysis, Troubleshooting, Process Automation.'
+      - name: APIs
+        description: 'REST APIs, Postman, SwaggerHub, Data Analysis, Troubleshooting, Process Automation.'
         percent: 70
         icon: devicon/openapi
-      - name: 
-        description: 'Jira, Confluence, Power BI, MS Office, Windows, Azure'
+      - name: Project Management
+        description: 'Jira, Confluence, Power BI, MS Office, Azure'
         percent: 60
         icon: devicon/azure
       
