@@ -123,7 +123,7 @@ skills:
         description: 'Express-Node.js'
         percent: 50
         icon: devicon/javascript
-      - name: 
+      - name: Databases/VCS
         description: 'SQL, Visual Studio, GIT'
         percent: 70
         icon: devicon/azuresqldatabase
