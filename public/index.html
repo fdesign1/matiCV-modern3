@@ -1756,9 +1756,16 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
         if (timeElement) {
           timeElement.remove();
         }
+
+        // Elimina la clase 'present' de cualquier elemento que la tenga
+        const presentElements = document.querySelectorAll('.present');
+        presentElements.forEach(element => {
+          element.classList.remove('present');
+        });
       };
     </script>
     
+  
   
   
 
