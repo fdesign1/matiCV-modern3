@@ -122,8 +122,8 @@ skills:
         description: 'Express-Node.js'
         percent: 50
         icon: devicon/javascript
-      - name: Databases/VCS
-        description: 'SQL, Visual Studio, GIT'
+      - name: Databases/VCS/
+        description: 'SQL, Visual Studio, GIT, Azure'
         percent: 70
         icon: devicon/azuresqldatabase
       - name: APIs
@@ -131,7 +131,7 @@ skills:
         percent: 70
         icon: devicon/openapi
       - name: Project Management
-        description: 'Jira, Confluence, Power BI, MS Office, Azure'
+        description: 'Jira, Confluence, Power BI, MS Office,Slack, Microsoft Teams, Google Workspace'
         percent: 60
         icon: devicon/azure
       
@@ -206,7 +206,7 @@ awards:
     url: 
     date: 
     summary: |
-      - Problem-solving, Communication, Cross-team Collaboration, Knowledge Sharing.
+      - Problem-solving, Customer Service, Communication, Cross-team Collaboration, Knowledge Sharing.
 
 ---
 Experienced Technical Support Engineer with a strong background in IT, data analysis, and API troubleshooting. Successfully optimized support processes. Skilled in API management, process automation, and improving technical workflows. Passionate about AI tools, website building, and continuous improvement. Fluent in Spanish and English.
