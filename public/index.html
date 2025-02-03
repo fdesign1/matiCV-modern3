@@ -1742,7 +1742,12 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
     
       
       <script>
-    
+      // Selecciona el elemento <time> usando su clase
+  const timeElement = document.querySelector('time.block.mb-3.text-sm.font-normal.leading-none.text-gray-500.dark\\:text-gray-300');
+
+// Elimina la clase del elemento
+timeElement.classList.remove('block', 'mb-3', 'text-sm', 'font-normal', 'leading-none', 'text-gray-500', 'dark:text-gray-300');
+
     function hideFooter() {
         const footer = document.querySelector('.page-footer');
         if (footer) {
@@ -1754,14 +1759,6 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
     window.onload = hideFooter;
 </script>
       
-<script>
-  // Selecciona el elemento <time> usando su clase
-  const timeElement = document.querySelector('time.block.mb-3.text-sm.font-normal.leading-none.text-gray-500.dark\\:text-gray-300');
-
-  // Elimina la clase del elemento
-  timeElement.classList.remove('block', 'mb-3', 'text-sm', 'font-normal', 'leading-none', 'text-gray-500', 'dark:text-gray-300');
-</script>
-
   
   
 
