@@ -124,9 +124,18 @@ skills:
         percent: 50
         icon: devicon/javascript
       - name: 
-        description: 'CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab'
+        description: 'SQL, CSS, Boostrap, JS, Express-Node.js ,React,Visual Studio, GIT, Github, Gitlab'
         percent: 70
-        icon: devicon/sql
+        icon: devicon/azuresqldatabase
+      - name: 
+        description: 'REST APIs, Postman, SwaggerHub, SQL, Python, Data Analysis, Troubleshooting, Process Automation.'
+        percent: 70
+        icon: devicon/openapi
+      - name: 
+        description: 'Jira, Confluence, Power BI, MS Office, Windows, Azure'
+        percent: 60
+        icon: devicon/azure
+      
 
   - name: Hobbies
     color: '#eeac02'
@@ -174,14 +183,11 @@ awards:
     icon: 
     summary: |
       - Course about cibersecurity fundamentals
-  - title: 'Other Skills'
+  - title: 'Soft Skills'
     url: 
     date: 
     summary: |
-      - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
-      - REST APIs, Postman, SwaggerHub, SQL, Python, Data Analysis, Troubleshooting, Process Automation. 
-      - Jira, Confluence, Power BI, MS Office, Windows, Azure.
-      - Research, Effective communication skills, proactive, time management.
+      - Problem-solving, Communication, Cross-team Collaboration, Knowledge Sharing.
 
 ---
 Experienced Technical Support Engineer with a strong background in IT, data analysis, and API troubleshooting. Successfully optimized support processes. Skilled in API management, process automation, and improving technical workflows. Passionate about AI tools, website building, and continuous improvement. Fluent in Spanish and English.
