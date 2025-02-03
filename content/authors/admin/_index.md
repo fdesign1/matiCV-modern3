@@ -95,7 +95,7 @@ work:
   - position: Web and mobile Data Analyst
     company_name: Accenture
     company_url: ''
-    company_logo: ''
+    company_logo: custom/accenture-solid
     date_start: 2018-01-01
     date_end: 2020-06-01
     summary: |
