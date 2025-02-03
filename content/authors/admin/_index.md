@@ -189,7 +189,7 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date: '0000-00-00'
+    date: 
     awarder: Codecademy
     icon: 
     summary: |
@@ -203,7 +203,7 @@ awards:
       - Learned best practices for cybersecurity, including encryption and endpoint protection
   - title: 'Soft Skills'
     url: 
-    date: ""
+    date: 
     summary: |
       - Problem-solving, Customer Service, Communication, Cross-team Collaboration, Knowledge Sharing.
 
