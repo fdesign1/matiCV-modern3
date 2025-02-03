@@ -147,8 +147,12 @@ skills:
         icon: custom/motorcycle-solid
       - name: Swimming
         description: ''
-        percent: 70
+        percent: 100
         icon: custom/person-swimming-solid
+      - name: Gym
+        description: ''
+        percent: 100
+        icon: custom/dumbbell-solid
       - name: Traveling
         description: ''
         percent: 100
