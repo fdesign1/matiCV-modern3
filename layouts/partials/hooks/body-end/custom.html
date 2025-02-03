@@ -1,26 +1,32 @@
-      <script>
-        window.onload = function() {
-          // Elimina el footer
-          const footer = document.querySelector('.page-footer');
-          if (footer) {
-            footer.style.display = 'none'; 
-          }
-      
-          // Selecciona el elemento <time> con el selector detallado
-          const timeElement = document.querySelector('#section-resume-experience > div.flex.flex-col.items-center.max-w-prose.mx-auto > div > div:nth-child(2) > ol > li > time');
-          
-          // Si se encuentra el <time>, lo elimina directamente
-          if (timeElement) {
-            timeElement.remove();
-          }
+<script>
+    window.onload = function() {
+      // Elimina el footer
+      const footer = document.querySelector('.page-footer');
+      if (footer) {
+        footer.style.display = 'none'; 
+      }
   
-          // Elimina el texto "Present" del elemento <time>
-          const timeElements = document.querySelectorAll('time');
-          timeElements.forEach(element => {
-            if (element.textContent.includes('Present')) {
-              element.textContent = element.textContent.replace('Present', '').trim();
-            }
-          });
-        };
-      </script>
-
+      // Selecciona el elemento <time> con el selector detallado
+      const timeElement = document.querySelector('#section-resume-experience > div.flex.flex-col.items-center.max-w-prose.mx-auto > div > div:nth-child(2) > ol > li > time');
+  
+      // Si se encuentra el <time>, lo elimina directamente
+      if (timeElement) {
+        timeElement.remove();
+      }
+  
+      // Elimina el texto "Present" del elemento <time>
+      const timeElements = document.querySelectorAll('time');
+      timeElements.forEach(element => {
+        if (element.textContent.includes('Present')) {
+          element.textContent = element.textContent.replace('Present', '').trim();
+        }
+      });
+  
+      // Elimina el texto "Present" del <div> con la clase específica
+      const divElement = document.querySelector('.block.mb-3.text-sm.font-normal.leading-none.text-gray-500.dark\\:text-gray-300');
+      if (divElement && divElement.textContent.includes('Present')) {
+        divElement.textContent = divElement.textContent.replace('Present', '').trim();
+      }
+    };
+  </script>
+  
