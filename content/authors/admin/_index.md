@@ -128,7 +128,7 @@ skills:
         percent: 70
         icon: devicon/azuresqldatabase
       - name: APIs
-        description: 'REST APIs, Postman, SwaggerHub, Data Analysis, Troubleshooting, Process Automation.'
+        description: 'REST APIs, Postman, SwaggerHub, Stoplight, Data Analysis, Troubleshooting, Process Automation.'
         percent: 70
         icon: devicon/openapi
       - name: Project Management
