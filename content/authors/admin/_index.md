@@ -154,6 +154,20 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
+  - title: 'Other Skills'
+    url: 
+    date: 
+    summary: |
+      - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
+      - REST APIs, Postman, SwaggerHub, SQL, Python, Data Analysis, Troubleshooting, Process Automation. 
+      - Jira, Confluence, Power BI, MS Office, Windows, Azure.
+      - Research, Effective communication skills, proactive, time management.
+   - title: 'Soft Skills'
+    url: 
+    date: 
+    summary: |
+      - Problem-solving, Communication, Cross-team Collaboration, Knowledge Sharing.  
+      
   - title: Web Development
     url: https://www.codeacademy.com
     date: 
@@ -164,18 +178,12 @@ awards:
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
     date: 
-  
+
     awarder: Udemy
     icon: 
     summary: |
       - Course about cibersecurity fundamentals
-  - title: 'Other Skills'
-    url: 
-    date: 
-    summary: |
-      - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
-      - Jira, Confluence, Power BI, MS Office, Windows, Azure.
-      - Research, Effective communication skills, proactive, time management.
+  
 
 ---
 Experienced Technical Support Engineer with a strong background in IT, data analysis, and API troubleshooting. Successfully optimized support processes. Skilled in API management, process automation, and improving technical workflows. Passionate about AI tools, website building, and continuous improvement. Fluent in Spanish and English.
