@@ -11,7 +11,7 @@ name_pronunciation:
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -177,7 +177,7 @@ awards:
       - Research, Effective communication skills, proactive, time management.
 
 ---
-I am an Experienced Technical Support Engineer with expertise in IT, data analysis, and troubleshooting. Skilled in API management, AI integration, website development and process optimization. Adept at problem-solving, enhancing technical services and streamlining operations. Spanish-English speaking, passionate about AI tools, website building and riding speedway.
+I am an Experienced Technical Support Engineer with expertise in IT, data analysis, and troubleshooting. Skilled in API management, AI integration, website development and process optimization. Adept at problem-solving, enhancing technical services and streamlining operations. Spanish-English speaking, passionate about AI tools and website building.
 
 🚀 Check out my [Portfolio](https://tu-link-aqui.com)
 
