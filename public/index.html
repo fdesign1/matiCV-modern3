@@ -1756,7 +1756,19 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
     window.onload = hideFooter;
 </script>
       
-  
+  <script>
+document.addEventListener("DOMContentLoaded", function () {
+    const timeElements = document.querySelectorAll("time");
+
+    timeElements.forEach(time => {
+        if (time.textContent.trim() === "Present") {
+            time.textContent = "";
+        }
+    });
+});
+
+
+  </script>
   
   
 
