@@ -1762,6 +1762,18 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
       };
   </script>
   
+  <script>
+    // Selecciona el elemento <time> que contiene "Present"
+    const timeElements = document.querySelectorAll('time');
+  
+    timeElements.forEach(timeElement => {
+      // Verifica si el texto contiene "Present" y elimina el contenido de texto
+      if (timeElement.textContent.includes('Present')) {
+        timeElement.textContent = timeElement.textContent.replace('Present', '').trim(); // Elimina "Present"
+        timeElement.classList.remove('block', 'mb-3', 'text-sm', 'font-normal', 'leading-none', 'text-gray-500', 'dark:text-gray-300'); // Elimina la clase
+      }
+    });
+  </script>
       
   
   
