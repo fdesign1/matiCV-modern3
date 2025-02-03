@@ -18,7 +18,7 @@
       const timeElements = document.querySelectorAll('time');
       timeElements.forEach(element => {
         if (element.textContent.includes('Present')) {
-          element.textContent = element.textContent.replace('Present', '').trim();
+          element.textContent = element.textContent.replace('Present', 'Current').trim();
         }
       });
   
