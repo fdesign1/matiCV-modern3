@@ -48,7 +48,7 @@ education:
     # date_end: 2020-12-31
     summary: |
       - Assembly operations, electrical circuits and electronic devices.
-      - Engines and electric functionality
+      - Engines and electric functionality.
       - Analysis of risks connected to security conditions.
       - Informatics Technology and communications
 
