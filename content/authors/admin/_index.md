@@ -160,11 +160,11 @@ skills:
       - name: Football
         description: ''
         percent: 100
-        icon: custom/football-solid
+        icon: custom/futbol-solid
       - name: Motorsports
         description: ''
         percent: 100
-        icon: custom/engine-solid
+        icon: custom/flag-checkered-solid
 
 languages:
   - name: Spanish
