@@ -94,8 +94,8 @@ work:
 
   - position: Web and mobile Data Analyst
     company_name: Accenture
-    company_url: 'https://www.accenture.com'
-    company_logo: '..\assets\media\icons\custom\accenture-solid.svg'
+    company_url: ''
+    company_logo: ''
     date_start: 2018-01-01
     date_end: 2020-06-01
     summary: |
@@ -189,16 +189,14 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date_start: 2011-01-01
-    date_end: 2015-12-31
+    date: Ongoing
     awarder: Codecademy
     icon: 
     summary: |
        Developed responsive web applications using HTML5, CSS, BOOSTRAP, REACT and JavaScript.
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
-    date: '2021-02-02'
-  
+    date: '2024-05-02'
     awarder: Udemy
     icon: 
     summary: |
