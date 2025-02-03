@@ -153,6 +153,18 @@ skills:
         description: ''
         percent: 100
         icon: custom/plane-solid
+      - name: 
+        description: ''
+        percent: 
+        icon: 
+      - name: 
+        description: ''
+        percent: 
+        icon: 
+      - name: 
+        description: ''
+        percent: 
+        icon: 
 
 languages:
   - name: Spanish
