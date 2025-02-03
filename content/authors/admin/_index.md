@@ -189,14 +189,15 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date: ''
+    date_start: 2011-01-01
+    date_end: 2015-12-31
     awarder: Codecademy
     icon: 
     summary: |
        Developed responsive web applications using HTML5, CSS, BOOSTRAP, REACT and JavaScript.
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
-    date: 
+    date: '2021-02-02'
   
     awarder: Udemy
     icon: 
@@ -204,7 +205,7 @@ awards:
       - Learned best practices for cybersecurity, including encryption and endpoint protection
   - title: 'Soft Skills'
     url: 
-    date: 
+    date: ""
     summary: |
       - Problem-solving, Customer Service, Communication, Cross-team Collaboration, Knowledge Sharing.
 
