@@ -28,16 +28,16 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-#profiles:
+profiles:
  # - icon: at-symbol
   #  url: 'mailto:ferrerasmatias@outlook.com'
    # label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
-  #- icon: brands/github
-  #  url: https://github.com/fdesign1
-  #- icon: brands/linkedin
-  #  url: https://www.linkedin.com/matif33
+  - icon: brands/github
+    url: https://github.com/fdesign1
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/matif33
   # - icon: brands/instagram
   #  url: h.0ps://www.instagram.com/_matiowi
 
@@ -139,7 +139,7 @@ skills:
         description: ''
         percent: 100
         icon: custom/plane-solid
-    -name: Soft Skills
+    - name: Soft Skills
       items:
         - name: Problem-solving-Communication
 
