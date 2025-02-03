@@ -139,6 +139,20 @@ skills:
         description: ''
         percent: 100
         icon: custom/plane-solid
+   - name: Soft Skills
+    items:
+      - name: HTML/CSS
+        description: ''
+        percent: 100
+        icon: devicon/html5
+      - name: React
+        description: ''
+        percent: 50
+        icon: devicon/react
+      - name: Javascript
+        description: ''
+        percent: 50
+        icon: devicon/javascript 
 
 languages:
   - name: Spanish
