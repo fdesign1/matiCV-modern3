@@ -196,7 +196,7 @@ awards:
        Developed responsive web applications using HTML5, CSS, BOOSTRAP, REACT and JavaScript.
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
-    date: '2024-05-02'
+    date: 
     awarder: Udemy
     icon: 
     summary: |

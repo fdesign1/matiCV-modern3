@@ -15,7 +15,7 @@
       // Elimina todos los elementos <time> que contengan "Present"
       const timeElements = document.querySelectorAll('time');
       timeElements.forEach(element => {
-        if (element.textContent.includes('Present')) {
+        if (element.textContent.includes('Present') || element.textContent.includes('∙')) {
           element.remove();
         }
       });
@@ -26,17 +26,18 @@
         divElement.remove();
       }
   
-      // Función para eliminar la palabra "Present" en cualquier parte del documento
-      function removePresentText(node) {
+      // Función para eliminar "Present" y "∙" en cualquier parte del documento
+      function removeUnwantedText(node) {
         if (node.nodeType === 3) { // Si es un nodo de texto
-          node.textContent = node.textContent.replace(/Present/g, '').trim();
+          node.textContent = node.textContent.replace(/Present|∙/g, '').trim();
         } else {
-          node.childNodes.forEach(removePresentText); // Recorre los nodos hijos
+          node.childNodes.forEach(removeUnwantedText); // Recorre los nodos hijos
         }
       }
   
       // Aplicar la función a todo el body del documento
-      removePresentText(document.body);
+      removeUnwantedText(document.body);
     };
   </script>
+  
   
