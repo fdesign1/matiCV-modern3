@@ -183,10 +183,10 @@ awards:
   - title: Web Development
     url: https://www.codeacademy.com
     date: 
-    awarder: CodeAcademy
+    awarder: Codecademy
     icon: 
     summary: |
-      Excel, HTML 5, Advanced CSS Flexbox, SQL, Javascript fundamentals.
+       Developed responsive web applications using HTML5, CSS, BOOSTRAP, REACT and JavaScript.
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
     date: 
@@ -194,7 +194,7 @@ awards:
     awarder: Udemy
     icon: 
     summary: |
-      - Course about cibersecurity fundamentals
+      - Learned best practices for cybersecurity, including encryption and endpoint protection
   - title: 'Soft Skills'
     url: 
     date: 
