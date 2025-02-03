@@ -37,7 +37,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/fdesign1
   - icon: brands/linkedin
-    url: https://www.linkedin.com/matif33
+    url: https://www.linkedin.com/in/matif33/
   # - icon: brands/instagram
   #  url: h.0ps://www.instagram.com/_matiowi
 
