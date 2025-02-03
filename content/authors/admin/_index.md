@@ -44,8 +44,8 @@ profiles:
 education:
   - area: Electromechanical Technician Automotive
     institution: Technical School Education
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
+    date_start: 2011-01-01
+    date_end: 2015-12-31
     summary: |
       - Assembly operations, electrical circuits and electronic devices.
       - Engines and electric functionality.
@@ -189,7 +189,7 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date: 
+    date: ''
     awarder: Codecademy
     icon: 
     summary: |
