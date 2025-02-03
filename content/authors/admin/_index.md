@@ -153,17 +153,17 @@ skills:
         description: ''
         percent: 100
         icon: custom/plane-solid
-      - name: 
+      - name: Car Industry
         description: ''
-        percent: 
+        percent: 100
         icon: 
-      - name: 
+      - name: Football
         description: ''
-        percent: 
+        percent: 100
         icon: 
-      - name: 
+      - name: Motorsports
         description: ''
-        percent: 
+        percent: 100
         icon: 
 
 languages:
