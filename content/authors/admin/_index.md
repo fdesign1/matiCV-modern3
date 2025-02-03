@@ -189,7 +189,7 @@ languages:
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date: Ongoing
+    date: '0000-00-00'
     awarder: Codecademy
     icon: 
     summary: |
