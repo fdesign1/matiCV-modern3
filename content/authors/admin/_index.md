@@ -61,12 +61,13 @@ work:
     date_start: 2024-02-01
     date_end: ''
     summary: |-
-      - Work with API technologies, including REST APIs, Postman API, Stoplight, SwaggerHub, Web Services API, and OpenAPI Specification. Assist with API troubleshooting and integration challenges.
-      - Investigate, diagnose, and resolve complex technical support issues for external customers via email, GitHub, screen sharing, live chat, and other communication channels.
+      - Work with API technologies, including REST APIs, Postman API, Stoplight, SwaggerHub, Web Services API, and OpenAPI Specification.
+      - Investigate, diagnose, and resolve complex technical issues for external customers via email, GitHub, screen sharing, live chat, and other communication channels.
       - Act as a point of contact for support colleagues and internal teams, such as development, ensuring effective issue resolution and knowledge sharing.
-      - Identify software bugs and define tasks for resolution, coordinating with the support team or engineering teams as needed.
+      - Identify software bugs and define tasks for resolution, coordinating with the support and engineering teams as needed.
       - Develop internal tools and improve documentation to enhance support processes and customer self-service capabilities.
-      - Continuously seek ways to improve issue resolution efficiency and enhance customer support experiences.
+      - Continuously seek ways to improve issue resolution efficiency and enhance customer support experiences.  
+
 
   - position: Data Analyst  
     company_name: Capgemini
@@ -75,10 +76,10 @@ work:
     date_start: 2021-06-01
     date_end: 2024-02-01
     summary: |
-      - Conduct investigations and gather data from primary and secondary sources. Utilize internal tools such as MS Office and Microsoft SQL Server for data analysis, cleansing, and verification.
-      - Prepare reports for the company’s main client, Microsoft, ensuring accuracy and relevance.
+      - Conducted data investigations and gathered insights from primary and secondary sources, utilizing tools like MS Office and Microsoft SQL Server.
+      - Prepared reports for the company’s main client, Microsoft, ensuring accuracy and relevance
       - Collect and analyze data using internet research and commercial database platforms to support business decisions.
-      - Handle short-term deadlines while maintaining a strong focus on accuracy and detail.
+      - Collected and analyzed data using SQL, Excel, Internet Research and other tools.
       - Evaluate Spanish proficiency during candidate interviews to support recruitment processes.
 
   - position: Senior Process Executive
@@ -138,6 +139,9 @@ skills:
         description: ''
         percent: 100
         icon: custom/plane-solid
+    -name: Soft Skills
+      items:
+        - name: Problem-solving-Communication
 
 languages:
   - name: Spanish
@@ -177,7 +181,7 @@ awards:
       - Research, Effective communication skills, proactive, time management.
 
 ---
-I am an Experienced Technical Support Engineer with expertise in IT, data analysis, and troubleshooting. Skilled in API management and process optimization. Adept at problem-solving, enhancing technical services and streamlining operations. Spanish-English speaking, passionate about AI tools and website building.
+Experienced Technical Support Engineer with a strong background in IT, data analysis, and API troubleshooting. Successfully optimized support processes. Skilled in API management, process automation, and improving technical workflows. Passionate about AI tools, website building, and continuous improvement. Fluent in Spanish and English.
 
 🚀 Check out my [Portfolio](https://tu-link-aqui.com)
 
