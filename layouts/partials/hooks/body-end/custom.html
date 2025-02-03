@@ -22,10 +22,10 @@
         }
       });
   
-      // Elimina el texto "Present" del <div> con la clase específica
+      // Elimina completamente el <div> con la clase específica
       const divElement = document.querySelector('.block.mb-3.text-sm.font-normal.leading-none.text-gray-500.dark\\:text-gray-300');
-      if (divElement && divElement.textContent.includes('Present')) {
-        divElement.textContent = divElement.textContent.replace('Present', '').trim();
+      if (divElement) {
+        divElement.remove();
       }
     };
   </script>
