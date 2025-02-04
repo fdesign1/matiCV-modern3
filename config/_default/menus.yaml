@@ -11,5 +11,5 @@ main:
     url: https://matiasferreras.netlify.app
     weight: 20
   - name: Contact
-    url: uses/
+    url: https://matiasferreras.netlify.app/hire-me
     weight: 30
