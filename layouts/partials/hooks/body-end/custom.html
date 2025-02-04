@@ -37,7 +37,25 @@
   
       // Aplicar la función a todo el body del documento
       removeUnwantedText(document.body);
+  
+      // Agregar el enlace "PORTFOLIO" al lado izquierdo del header
+      const header = document.querySelector('.page-header'); // Selecciona el header
+  
+      if (header) {
+        const portfolioLink = document.createElement('div');
+        portfolioLink.style.position = 'absolute';
+        portfolioLink.style.left = '0';
+        portfolioLink.style.top = '0';
+        portfolioLink.style.margin = '0.75rem'; // Puedes ajustar el margen
+  
+        const link = document.createElement('a');
+        link.href = '/portfolio'; // Ajusta el enlace de tu portfolio
+        link.classList.add('text-lg', 'font-semibold', 'text-primary', 'dark:text-white', 'hover:text-secondary');
+        link.textContent = 'PORTFOLIO';
+  
+        portfolioLink.appendChild(link);
+        header.appendChild(portfolioLink);
+      }
     };
   </script>
-  
   

@@ -30,11 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
-    
-sections:
-  - id: custom-navbar
-    blox: "my-navbar"   # Agrega el nuevo navbar en otra sección si lo deseas  
+    blox: floating-theme-toggler  
 
 # Site footer
 footer:
