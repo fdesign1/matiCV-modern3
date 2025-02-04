@@ -1,7 +1,0 @@
-/* Ocultar "Present" */
-div.block.mb-3.text-sm.font-normal.leading-none.text-gray-500:has(:contains("Present")) {
-    display: none !important;
-}
-.date {
-    display: none;
-}
