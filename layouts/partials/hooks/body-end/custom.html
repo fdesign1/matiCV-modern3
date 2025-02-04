@@ -38,8 +38,8 @@
       // Aplicar la función a todo el body del documento
       removeUnwantedText(document.body);
   
-      // Agregar el enlace "PORTFOLIO" al lado izquierdo del header
-      const header = document.querySelector('.page-header'); // Selecciona el header
+      // Asegúrate de que el header exista
+      const header = document.querySelector('.page-header');
   
       if (header) {
         const portfolioLink = document.createElement('div');
@@ -54,13 +54,11 @@
         link.classList.add('text-lg', 'font-semibold', 'text-primary', 'dark:text-white');
         link.textContent = 'PORTFOLIO';
   
-        // Asegúrate de que el enlace sea interactivo y redirigible
-        link.addEventListener('click', function() {
-          window.location.href = 'https://matiasferreras.netlify.app'; // Redirige a la página del portfolio
-        });
-  
+        // Agregar el enlace al DOM
         portfolioLink.appendChild(link);
         header.appendChild(portfolioLink);
+      } else {
+        console.log('Header no encontrado.');
       }
     };
   </script>
