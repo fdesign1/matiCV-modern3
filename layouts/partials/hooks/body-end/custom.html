@@ -54,18 +54,6 @@
         link.classList.add('text-lg', 'font-semibold', 'text-primary', 'dark:text-white');
         link.textContent = 'PORTFOLIO';
   
-        // Estilo para cambiar de color cuando se pasa el mouse
-        link.style.transition = 'color 0.3s ease'; // Suaviza el cambio de color
-  
-        // Cambio de color al pasar el mouse
-        link.addEventListener('mouseover', function() {
-          link.style.color = '#FF6347'; // Color cuando el mouse pasa por encima
-        });
-  
-        link.addEventListener('mouseout', function() {
-          link.style.color = ''; // Restaura el color original
-        });
-  
         portfolioLink.appendChild(link);
         header.appendChild(portfolioLink);
       }
