@@ -89,7 +89,6 @@
               <a
                 class="nav-dropdown-link {{ if $active }}active{{- end -}}"
                 {{ if findRE `^http` .URL }}
-                target="_blank" rel="noopener"
                 {{ end }}
                 href="{{$url}}">
                 {{ .Name }}
