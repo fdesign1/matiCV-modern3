@@ -9,7 +9,7 @@ design:
       # Add your image background to `assets/media/`.
       filename: bg-hue.svg
   # Default section spacing
-  spacing: "4rem"
+
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
