@@ -30,11 +30,8 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
-    menu:
-      - name: Portfolio
-        url: /portfolio
-        weight: 1
+    blox: "my-navbar"
+    
 
 # Site footer
 footer:
