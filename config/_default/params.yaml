@@ -31,6 +31,10 @@ header:
   navbar:
     enable: true
     blox: floating-theme-toggler
+    menu:
+      - name: Portfolio
+        url: /portfolio
+        weight: 1
 
 # Site footer
 footer:
