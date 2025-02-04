@@ -46,12 +46,22 @@
         portfolioLink.style.position = 'absolute';
         portfolioLink.style.left = '0';
         portfolioLink.style.top = '0';
-        portfolioLink.style.margin = '2rem'; // Puedes ajustar el margen
+        portfolioLink.style.margin = '0.75rem'; // Puedes ajustar el margen
   
         const link = document.createElement('a');
-        link.href = 'https://www.matiasferreras.netlify.app'; // Ajusta el enlace de tu portfolio
+        link.href = 'https://matiasferreras.netlify.app'; // URL de tu portfolio
+        link.target = '_blank'; // Abre el enlace en una nueva pestaña
         link.classList.add('text-lg', 'font-semibold', 'text-primary', 'dark:text-white', 'hover:text-secondary');
-        link.textContent = 'MY PORTFOLIO';
+        link.textContent = 'PORTFOLIO';
+  
+        // Estilo para cambiar de color cuando se pasa el mouse
+        link.style.transition = 'color 0.3s ease'; // Suaviza el cambio de color
+        link.onmouseover = function() {
+          link.style.color = '#FF6347'; // Color cuando el mouse pasa por encima
+        };
+        link.onmouseout = function() {
+          link.style.color = ''; // Restaura el color original
+        };
   
         portfolioLink.appendChild(link);
         header.appendChild(portfolioLink);
