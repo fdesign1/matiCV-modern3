@@ -38,28 +38,6 @@
       // Aplicar la función a todo el body del documento
       removeUnwantedText(document.body);
   
-      // Asegúrate de que el header exista
-      const header = document.querySelector('.page-header');
-  
-      if (header) {
-        const portfolioLink = document.createElement('div');
-        portfolioLink.style.position = 'absolute';
-        portfolioLink.style.left = '1rem'; // Ajusta el margen
-        portfolioLink.style.top = '0';
-        portfolioLink.style.margin = '0.75rem'; // Ajusta el margen
-  
-        const link = document.createElement('a');
-        link.href = 'https://matiasferreras.netlify.app'; // URL de tu portfolio
-        link.target = '_blank'; // Abre el enlace en una nueva pestaña
-        link.classList.add('text-lg', 'font-semibold', 'text-primary', 'dark:text-white');
-        link.textContent = 'PORTFOLIO';
-  
-        // Agregar el enlace al DOM
-        portfolioLink.appendChild(link);
-        header.appendChild(portfolioLink);
-      } else {
-        console.log('Header no encontrado.');
-      }
     };
   </script>
   
