@@ -114,7 +114,6 @@ work:
       - Worked for several years in a specialized electronics retail store, selling products such as computers, laptops, gaming consoles, video games ,accessories, and providing basic technical support services.
       - Delivered personalized customer service and product recommendations, helping clients choose the best solutions based on their needs and preferences.
       - Hands-on knowledge of hardware, software, and gaming products, allowing for confident and informed sales support.
-      - Technical Sales Assistant – IT & Gaming Products.
 
 
 # Skills
