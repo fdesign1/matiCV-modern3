@@ -11,32 +11,32 @@ name_pronunciation:
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Technology/Communications
-
+role: Technology & Communications
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 'Phone: +48 515 465 342'
     url: '+48515465342'
   - name: ferrerasmatias@outlook.com
+  
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-#profiles:
+profiles:
  # - icon: at-symbol
   #  url: 'mailto:ferrerasmatias@outlook.com'
    # label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
-  #- icon: brands/github
-  #  url: https://github.com/fdesign1
-  #- icon: brands/linkedin
-  #  url: https://www.linkedin.com/matif33
+  - icon: brands/github
+    url: https://github.com/fdesign1
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/matif33/
   # - icon: brands/instagram
   #  url: h.0ps://www.instagram.com/_matiowi
 
@@ -44,29 +44,29 @@ organizations:
 education:
   - area: Electromechanical Technician Automotive
     institution: Technical School Education
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
+    date_start: 2011-01-01
+    date_end: 2015-12-31
     summary: |
       - Assembly operations, electrical circuits and electronic devices.
-      - Engines and electric functionality
+      - Engines and electric functionality.
       - Analysis of risks connected to security conditions.
       - Informatics Technology and communications
 
 work:
   - position: Product Support Engineer
-    company_name: Smartbear
+    company_name: Smartbear - To Date
     company_url: ''
     company_logo: ''
     date_start: 2024-02-01
     date_end: ''
     summary: |-
-      Responsibilities include:
-      - API, REST APIs, Postman API, Stoplight, Swaggerhub, Web Services API, openAPI Specification, API troubleshooting
-      - Troubleshoot, perform in-depth investigations and solve complex technical support issues with external customers (via email, GitHub, screenshare, live chat etc)
-      - Collaborate with and be a point of contact for fellow support colleagues and other internal organisations (e.g. development)
-      - Identify fixes to bugs and define tasks for these to be implemented either by the support team or by other engineering teams
-      - Develop tools and enhance documentation to improve support processes
-      - Look for ways to improve productivity of issue resolution and better ways to help customers.
+      - Work with API technologies, including REST APIs, Postman API, Stoplight, SwaggerHub, Web Services API, and OpenAPI Specification.
+      - Investigate, diagnose, and resolve complex technical issues for external customers via email, GitHub, screen sharing, live chat, and other communication channels.
+      - Act as a point of contact for support colleagues and internal teams, such as development, ensuring effective issue resolution and knowledge sharing.
+      - Identify software bugs and define tasks for resolution, coordinating with the support and engineering teams as needed.
+      - Develop internal tools and improve documentation to enhance support processes and customer self-service capabilities.
+      - Continuously seek ways to improve issue resolution efficiency and enhance customer support experiences.  
+
 
   - position: Data Analyst  
     company_name: Capgemini
@@ -75,39 +75,34 @@ work:
     date_start: 2021-06-01
     date_end: 2024-02-01
     summary: |
-      Responsibilities include:
-      - Conducting investigation and acquiring data from primary or secondary sources.
-        Using internal tools such as MS Office, Microsoft SQL Server for data analysis cleansing and verification.
-      - Creating reports for the company's main client, Microsoft
-      - Gathering necessary data based on internet research and using commercial      database platforms.
-      - Working with many languages in a multicultural environment.
-      - Dealing with short-term deadlines and focusing on detail.
-      - Checked Spanish proficiency in candidate's interviews.
+      - Conducted data investigations and gathered insights from primary and secondary sources, utilizing tools like MS Office and Microsoft SQL Server.
+      - Prepared reports for the company’s main client, Microsoft, ensuring accuracy and relevance
+      - Collect and analyze data using internet research and commercial database platforms to support business decisions.
+      - Collected and analyzed data using SQL, Excel, Internet Research and other tools.
+      - Evaluate Spanish proficiency during candidate interviews to support recruitment processes.
 
-  - position: Senior Process Executive - Cognizant
+  - position: Senior Process Executive
     company_name: Cognizant
     company_url: ''
     company_logo: ''
     date_start: 2020-10-01
     date_end: 2021-04-01
     summary: |
-      Responsibilities include:
-      - Working with Excel and SAP to extract required documentation, Azure Portal, PowerBI, and other company tools.
-      - Handling payment process.
-      - Updating internal databases and responding/resolving queries.
+      - Working Utilize Excel, SAP, Azure Portal, Power BI, and other internal tools to extract and manage required documentation.
+      - Oversee and manage payment transactions, ensuring accuracy and compliance with internal procedures
+      - Update internal databases, respond to queries, and resolve issues to ensure data integrity and efficient operations.
 
-  - position: Web and mobile Data Analyst - Accenture
+  - position: Web and mobile Data Analyst
     company_name: Accenture
     company_url: ''
     company_logo: ''
     date_start: 2018-01-01
     date_end: 2020-06-01
     summary: |
-      Responsibilities include:
       - Full sites analysis and approval for developers to introduce monetizable advertisements.
-      - Web analysis, ads positioning.
-      - Quality assistance for the project in Krakow and Dublin.
-      - App reviewing in Spanish and English.
+      - Analyze websites and determine optimal ad positioning
+      - Support quality control processes for projects in Krakow and Dublin
+      - Evaluate applications in both Spanish and English to ensure compliance and functionality.
 
  - position: Technical Sales Assistant – IT & Gaming Products
     company_name: Micro House
@@ -128,34 +123,68 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: HTML/CSS
+      - name: HTML/CSS/BOOSTRAP
         description: ''
-        percent: 80
+        percent: 100
         icon: devicon/html5
       - name: React
         description: ''
         percent: 50
         icon: devicon/react
       - name: Javascript
-        description: ''
-        percent: 40
+        description: 'Express-Node.js'
+        percent: 50
         icon: devicon/javascript
+      - name: Databases/VCS
+        description: 'SQL, Visual Studio, GIT, Azure'
+        percent: 70
+        icon: devicon/azuresqldatabase
+      - name: APIs
+        description: 'REST APIs, Postman, SwaggerHub, Stoplight, Data Analysis, Troubleshooting, Process Automation.'
+        percent: 70
+        icon: devicon/openapi
+      - name: Project Management
+        description: 'Jira, Confluence, Power BI, MS Office,Slack, Microsoft Teams, Google Workspace'
+        percent: 60
+        icon: devicon/azure
+      
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Motorsports
+      - name: Riding Speedway
         description: ''
         percent: 100
         icon: custom/motorcycle-solid
       - name: Swimming
         description: ''
-        percent: 70
+        percent: 100
         icon: custom/person-swimming-solid
+      - name: Gym
+        description: ''
+        percent: 100
+        icon: custom/dumbbell-solid
       - name: Traveling
         description: ''
         percent: 100
         icon: custom/plane-solid
+      - name: Car Industry
+        description: ''
+        percent: 100
+        icon: custom/car-solid
+      - name: Gaming Industry
+        description: ''
+        percent: 100
+        icon: custom/gamepad-solid
+      - name: Football
+        description: ''
+        percent: 100
+        icon: custom/futbol-solid
+      - name: Motorsports
+        description: ''
+        percent: 100
+        icon: custom/flag-checkered-solid
 
 languages:
   - name: Spanish
@@ -169,31 +198,34 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: Web Development
     url: https://www.codeacademy.com
-    date: '2023-11-25'
-    awarder: CodeAcademy
+    date: 
+    awarder: Codecademy
     icon: 
     summary: |
-      Excel, HTML 5, Advanced CSS Flexbox, SQL, Javascript fundamentals.
+       Developed responsive web applications using HTML5, CSS, BOOSTRAP, REACT and JavaScript.
   - title: Security, Endpoint Protection, Encryption.
     url: https://www.udemy.com
-    date: '2023-07-01'
+    date: 
     awarder: Udemy
     icon: 
     summary: |
-      Learned:
-      - Course about cibersecurity fundamentals
-  - title: 'Other Skills'
+      - Learned best practices for cybersecurity, including encryption and endpoint protection
+  - title: 'Soft Skills'
     url: 
+    date: 
     summary: |
-      - Familiar with, CSS, Boostrap, JS, Express - Node.js , React, SQL, Visual Studio, GIT, Github, Gitlab.
-      - Jira, Confluence, Power BI, MS Office, Windows, Azure.
-      - Research, Effective communications skills, proactive, time management.
+      - Problem-solving, Customer Service, Communication, Cross-team Collaboration, Knowledge Sharing.
 
 ---
-Technical Support Engineer and Native Spanish Speaker with a solid background in IT, data analysis, and support engineering. Experienced in troubleshooting, customer success, and process optimization, with a passion for product support and cross-team collaboration. Proven ability to enhance technical services and streamline support operations. Enthusiastic about web app development, speedway racing, gym workouts, and swimming.
+Experienced Technical Support Engineer with a strong background in IT, data analysis, and API troubleshooting. Successfully optimized support processes. Skilled in API management, process automation, and improving technical workflows. Passionate about AI tools, website building, and continuous improvement. Fluent in Spanish and English.
+
+🚀 Check out my [ Portfolio](https://matiasferreras.netlify.app)
+
+
 
 
 

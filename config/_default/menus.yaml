@@ -7,9 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
-    url: about/
+  - name: Projects
+    url: https://matiasferreras.netlify.app/projects-grid-cards
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Contact
+    url: https://matiasferreras.netlify.app/hire-me
     weight: 30

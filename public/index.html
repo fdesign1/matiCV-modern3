@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 1, 2024 --><html lang="en-us" dir="ltr"
+<!-- Last Published: January 31, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -152,11 +152,9 @@
 
 
 
-
-
   
   
-    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Résumé Hugo Theme" />
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Matias" />
   
 
   
@@ -188,10 +186,8 @@
     <meta property="twitter:site" content="@GetResearchDev" />
     <meta property="twitter:creator" content="@GetResearchDev" />
   
-  <meta property="og:site_name" content="Résumé Hugo Theme" />
   <meta property="og:url" content="http://localhost:1313/" />
-  <meta property="og:title" content="Home | Résumé Hugo Theme" />
-  <meta property="og:description" content="A highly-customizable Hugo résumé theme powered by Hugo Blox Builder." /><meta property="og:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" />
+  <meta property="og:title" content="Matias Ferreras CV" />
     <meta property="twitter:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -212,7 +208,7 @@
   
 
 
-  <title>Home | Résumé Hugo Theme</title>
+  <title>Matias Ferreras CV</title>
 
   
   
@@ -939,12 +935,6 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
 
         </h3>
         <span class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">Technical School Education</span>
-        <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
-          
-          
-            Present
-          
-        </time>
         <div class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300 prose prose-slate dark:prose-invert"><ul>
 <li>Assembly operations, electrical circuits and electronic devices.</li>
 <li>Engines and electric functionality</li>
@@ -1693,7 +1683,7 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
 
   
   <p class="powered-by text-center">
-    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
@@ -1745,20 +1735,34 @@ Using internal tools such as MS Office, Microsoft SQL Server for data analysis c
   
     
       
-      <script>
-    
-    function hideFooter() {
+    <script>
+      window.onload = function() {
+        // Elimina el footer
         const footer = document.querySelector('.page-footer');
         if (footer) {
-            footer.style.display = 'none'; 
+          footer.style.display = 'none'; 
         }
-    }
+    
+        // Selecciona el elemento <time> con el selector detallado
+        const timeElement = document.querySelector('#section-resume-experience > div.flex.flex-col.items-center.max-w-prose.mx-auto > div > div:nth-child(2) > ol > li > time');
+        
+        // Si se encuentra el <time>, lo elimina directamente
+        if (timeElement) {
+          timeElement.remove();
+        }
 
+        // Elimina el texto "Present" del elemento <time>
+        const timeElements = document.querySelectorAll('time');
+        timeElements.forEach(element => {
+          if (element.textContent.includes('Present')) {
+            element.textContent = element.textContent.replace('Present', '').trim();
+          }
+        });
+      };
+    </script>
     
-    window.onload = hideFooter;
-</script>
-      
-    
+  
+  
   
 
 

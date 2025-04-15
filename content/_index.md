@@ -4,8 +4,12 @@ date: 2023-10-24
 type: landing
 
 design:
+  #background:
+    #image:
+      # Add your image background to `assets/media/`.
+      #filename: bg-hue.svg
   # Default section spacing
-  spacing: "4rem"
+
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -17,14 +21,16 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: https://maticv.netlify.app
+        url: /uploads/Matias_Ferreras_5Y_tech_support.pdf
+        
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.8em; margin: 0.2em'
+
   - block: experience
     content:
       username: admin
@@ -41,6 +47,7 @@ sections:
     content:
       title: Courses
       username: admin
+   
   - block: languages
     content:
       title: Languages
