@@ -104,14 +104,13 @@ work:
       - Support quality control processes for projects in Krakow and Dublin
       - Evaluate applications in both Spanish and English to ensure compliance and functionality.
 
- - position: Technical Sales Assistant – IT & Gaming Products
+  - position: Technical Sales Assistant – IT & Gaming Products
     company_name: Micro House
     company_url: ''
     company_logo: ''
     date_start: 2014-01-01
     date_end: 2017-11-10
     summary: |
-      Responsibilities include:
       - Worked for several years in a specialized electronics retail store, selling products such as computers, laptops, gaming consoles, video games ,accessories, and providing basic technical support services.
       - Delivered personalized customer service and product recommendations, helping clients choose the best solutions based on their needs and preferences.
       - Hands-on knowledge of hardware, software, and gaming products, allowing for confident and informed sales support.
